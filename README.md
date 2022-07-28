@@ -20,6 +20,11 @@ Tools under consideration here
 + Benefits of Dagster compared to Airflow
    +  https://www.reddit.com/r/dataengineering/comments/s71ao7/dagster_are_these_people_from_the_future_of_data/)
    +  https://dagster.io/blog/dagster-airflow
+   
+ 
+# MY OPPINION 
+
+Based on my readings it seems that Airflow, AWS Step functions, ADF/Logic apps are more of task agnostic scheduler whereas Prefect and Dagster are tools that dont separate the task and the execution too much. 
 
 # AIRFLOW ARTICLES ABOUT GOOD PRACTICES 
 
@@ -28,3 +33,8 @@ Tools under consideration here
 # PREFECT 
 
 + [Article About Prefect features](https://towardsdatascience.com/introducing-a-dataflow-management-system-backed-up-by-prefect-aws-and-github-actions-3f8c0eef2eb2)
+
+
+# DAGSTER 
+
++ [Dagster](https://docs.dagster.io/getting-started)
