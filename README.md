@@ -24,7 +24,8 @@ Tools under consideration here
  
 # MY OPPINION 
 
-Based on my readings it seems that Airflow, AWS Step functions, ADF/Logic apps are more of task agnostic scheduler whereas Prefect and Dagster are tools that dont separate the task and the execution too much. 
+Based on my readings it seems that Airflow, AWS Step functions, ADF/Logic apps, Prefect are more of task agnostic scheduler whereas  Dagster is a tools that dont separate the task and the execution too much. 
+
 
 # AIRFLOW ARTICLES ABOUT GOOD PRACTICES 
 
