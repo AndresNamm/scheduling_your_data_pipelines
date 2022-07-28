@@ -17,7 +17,9 @@ Tools under consideration here
 + [Airflow vs Step Functions](https://stackoverflow.com/questions/64016869/airflow-versus-aws-step-functions-for-workflow/73139280#73139280)
 + [Reddit - Alternatives to Airflow](https://www.reddit.com/r/dataengineering/comments/tnarmv/alternatives_to_airflow/)
 + [Reddit - Is Airflow passed](https://www.reddit.com/r/dataengineering/comments/n9nrye/is_airflow_a_pass%C3%A9_what_replaces_it/)
-+ [Dagster Praise](https://www.reddit.com/r/dataengineering/comments/s71ao7/dagster_are_these_people_from_the_future_of_data/)
++ Benefits of Dagster compared to Airflow
+   +  https://www.reddit.com/r/dataengineering/comments/s71ao7/dagster_are_these_people_from_the_future_of_data/)
+   +  https://dagster.io/blog/dagster-airflow
 
 # AIRFLOW ARTICLES ABOUT GOOD PRACTICES 
 
