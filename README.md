@@ -17,7 +17,12 @@ Tools under consideration here
 + [Airflow vs Step Functions](https://stackoverflow.com/questions/64016869/airflow-versus-aws-step-functions-for-workflow/73139280#73139280)
 + [Reddit - Alternatives to Airflow](https://www.reddit.com/r/dataengineering/comments/tnarmv/alternatives_to_airflow/)
 + [Reddit - Is Airflow passed](https://www.reddit.com/r/dataengineering/comments/n9nrye/is_airflow_a_pass%C3%A9_what_replaces_it/)
+
+
 # AIRFLOW ARTICLES ABOUT GOOD PRACTICES 
 
 + https://towardsdatascience.com/apache-airflow-in-2022-10-rules-to-make-it-work-b5ed130a51ad
 
+# PREFECT 
+
++ [Article About Prefect features](https://towardsdatascience.com/introducing-a-dataflow-management-system-backed-up-by-prefect-aws-and-github-actions-3f8c0eef2eb2)
